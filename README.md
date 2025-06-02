@@ -5,7 +5,7 @@ This repository includes a Postman test collection for the [Restful Booker API](
 ## 🌐 Access the Collection Online
 
 You can access and run all requests online via Postman here:  
-🔗 [Open Postman Workspace](https://www.postman.com/aaaaaaaaaaa-7919/workspace/restfulbookerpostman)
+🔗 [Open Postman Workspace](https://www.postman.com/a-7919/restfulbookerpostman/overview)
 
 No need to download anything – everything is ready and organized for you.
 
@@ -30,5 +30,5 @@ For security purposes, make sure to **never expose passwords or sensitive data**
 
 ## 👩‍💻 Author
 
-**Hala Salah**  
+**Hala Salah Eldaly**  
 Software Tester | Passionate about automation and API testing  
