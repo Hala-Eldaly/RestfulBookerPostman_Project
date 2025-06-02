@@ -22,6 +22,13 @@ No need to download anything – everything is ready and organized for you.
 Full API documentation:  
 📄 [Restful Booker API Docs](https://restful-booker.herokuapp.com/apidoc/index.html)
 
+
+##  🌍 Automated Tests
+[RestAssured Automation Project](https://github.com/Hala-Eldaly/Restassured-Restful-Booker)  
+*(Java + RestAssured + TestNG framework)*
+
+
+
 ## ⚠️ Security Note
 
 For security purposes, make sure to **never expose passwords or sensitive data** in shared environments. You can use environment variables or Postman’s secret management tools to secure credentials.
